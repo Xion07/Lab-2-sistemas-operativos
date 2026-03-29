@@ -2,16 +2,16 @@
 # Laboratorio de Sistemas Operativos — Práctica No. 2  
 ## API de Procesos: *wish* (Wisconsin Shell)
 
-> **Facultad de Ingeniería · Ingeniería de Sistemas · Universidad de Antioquia** > Fecha de entrega: 12 de abril de 2026
+> **Facultad de Ingeniería · Ingeniería de Sistemas · Universidad de Antioquia**
 
 ---
 
 ## a) Integrantes
 
-| Nombre completo | Correo institucional | N.º de documento |
-|-----------------|----------------------|------------------|
-| David Penagos | david.penagos1407@gmail.com / julian.penagos@udea.edu.co | |
-| Andrea | | |
+| Nombre completo | Correo institucional |
+|-----------------|----------------------|
+| David Penagos | julian.penagos@udea.edu.co | 
+| Andrea Orozco | jennya.orozco@udea.edu.co | 
 
 ---
 
