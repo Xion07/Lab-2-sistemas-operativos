@@ -187,7 +187,7 @@ $ ./wish comandos.txt
 
 ## e) Video de sustentación
 
-> **Enlace**: > Duración: 10 minutos  
+> https://drive.google.com/file/d/1Zjio3ntWmo00UFRtG83Mg_60Xeq8QsVx/view?usp=sharing : > Duración: 10 minutos  
 > Contenido: Demostración en vivo del shell en Fedora, explicación de la arquitectura del código fuente (especialmente `fork` y `waitpid`), recorrido por el manejo de redirección y pruebas de concurrencia.
 
 ---
